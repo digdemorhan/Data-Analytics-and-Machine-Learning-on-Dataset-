@@ -1,4 +1,4 @@
-# Data Analytics and Machine Learning on Dataset
+# DATA ANALYTICS AND MACHINE LEARNING ON DATASET
 
 # PROJENİN ANA TEMASI:
 Bu projede, Kaggle üzerinden bulunan "Lower Back Pain Symptoms Dataset" veri setine ait keşifsel veri analizi (Exploratory Data Analysis/EDA) işlemi gerçekleştirilmiştir. Veri seti temizlendikten ve düzenlendikten sonra bir destek vektör makinesi (SVM) kullanarak sınıflandırma işlemi yapmakta ve ilgili grafikleri vermektedir. Veri setinde bulunan pelvik insidans değerinin yarıçapa oranı histogram üzerinde gösterilmiş, sütunlar arası korelasyonları gösteren bir ısı haritası ve Scatter Plot (Serpilme Diyagramı) oluşturulmuştur. Destek vektör makinesi modeli kullanılarak veriler arasında "high, medium, low" şeklinde sınıflandırma işlemi yapılmıştır. 
